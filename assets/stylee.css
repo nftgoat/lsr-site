@@ -1,0 +1,9 @@
+h1 {
+    font-family: 'Cedarville Cursive', cursive;
+}
+button {
+    padding: 39px;
+    border-radius: 90px !important;
+    border: 0px;
+    color: beige;
+}
