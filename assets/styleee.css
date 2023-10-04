@@ -7,3 +7,8 @@ p {
 body {
     padding: 10px;
 }
+/* @media (min-width: 576px) { 
+    .a {
+        : 10px;
+    }
+ } */
