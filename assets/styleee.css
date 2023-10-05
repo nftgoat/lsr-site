@@ -1,14 +1,8 @@
 h1 {
-    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
 }
 p {
-    font-family: 'Roboto', sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
 }
-body {
-    padding: 10px;
-}
-/* @media (min-width: 576px) { 
-    .a {
-        : 10px;
-    }
- } */
