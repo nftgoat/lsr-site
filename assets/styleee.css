@@ -6,3 +6,16 @@ p {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 
 }
+.c {
+    font-size: small;
+}
+.a {
+    font-size: small;
+    font-style: italic;
+}
+.b {
+    font-style: italic;
+}
+.d {
+    font-size: smaller;
+}

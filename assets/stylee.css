@@ -4,6 +4,7 @@ h1 {
 button {
     padding: 39px;
     border-radius: 90px !important;
-    border: 0px;
-    color: beige;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
 }
